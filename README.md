@@ -1,6 +1,6 @@
 # Neha Reddy K - Personal Portfolio Website
 
-A premium, highly interactive personal portfolio website showcasing B.Tech Computer Science & Data Science credentials, internships, courses, and engineering projects.
+A premium, highly interactive personal portfolio website showcasing B.Tech CSE(DATA SCIENCE) credentials, internships, courses, and engineering projects.
 
 ## 🚀 Live Preview
 The website runs a responsive single-page architecture featuring a customized Glassmorphism layout.
